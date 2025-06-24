@@ -4,9 +4,9 @@
 <p> *HTML </p>
 <p> *CSS </p>
 
-<p>Img Desktop </p>
+<p>Img Desktop: </p>
 <img src="https://github.com/paulo2602/Projeto-Wide-coverage-location/blob/master/img/img%20desktop%20wide%20coverage.png?raw=true">
 
 
-<p> Img Mobile </p>
+<p> Img Mobile: </p>
 <img src="https://github.com/paulo2602/Projeto-Wide-coverage-location/blob/master/img/img%20mobile%20wide%20coverage.png?raw=true">
