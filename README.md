@@ -1,6 +1,6 @@
 <h1> Projeto Landing Page</h1>
 <p>Fiz essa landing page responsiva, como vc pode ver tem a versão para Desktop e tambem para Mobile</p>
-<p>Usando</p>
+<p>Usando:</p>
 <p> *HTML </p>
 <p> *CSS </p>
 
